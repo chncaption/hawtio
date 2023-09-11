@@ -45,7 +45,7 @@
     <dependency>
       <groupId>org.ops4j.pax.logging</groupId>
       <artifactId>pax-logging-api</artifactId>
-      <version>1.11.10</version>
+      <version>1.12.6</version>
       <scope>provided</scope>
     </dependency>
 
@@ -79,7 +79,7 @@
               org.ops4j.pax.logging.spi;version="[1.8.5,3)",
               *
             </Import-Package>
-            <Export-Package />
+            <Export-Package/>
           </instructions>
         </configuration>
       </plugin>
