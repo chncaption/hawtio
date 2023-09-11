@@ -54,7 +54,7 @@
     <webapp-dir>${project.artifactId}-${project.version}</webapp-dir>
     <webapp-outdir>${basedir}/target/${webapp-dir}</webapp-outdir>
 
-    <blueprint-web-version>1.1.0</blueprint-web-version>
+    <blueprint-web-version>1.1.1</blueprint-web-version>
     <build-helper-maven-plugin-version>1.12</build-helper-maven-plugin-version>
 
     <spring-version>5.3.23</spring-version>
