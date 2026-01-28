@@ -60,7 +60,7 @@
     <spring-version>5.3.23</spring-version>
     <spring-boot-version>2.7.4</spring-boot-version>
 
-    <assertj-core-version>3.22.0</assertj-core-version>
+    <assertj-core-version>3.27.7</assertj-core-version>
     <commons-codec-version>1.15</commons-codec-version>
     <commons-io-version>2.11.0</commons-io-version>
     <commons-logging-version>1.2</commons-logging-version>
